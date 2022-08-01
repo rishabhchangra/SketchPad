@@ -1,0 +1,49 @@
+      
+
+
+
+      canvas { 
+            align-self: center;
+      	margin: 10px;
+      	box-shadow: -3px 2px 9px 6px black;
+      	cursor: pointer; 
+      }
+      
+      body {
+      	margin: 0px;
+      	padding: 30px;
+      	
+      }
+
+      .tools .button{
+      	align-self: : center;
+      	width: 100px;
+      	height: 40px;
+      	border:  2px solid white;
+      	cursor:  pointer;
+      	color: white;
+      	background: #222;
+      	font-weight: bolder;
+      	margin: 0 15px;
+
+      }
+
+      .tools .color-field{
+
+      	height: 20px;
+      	width:  20px;
+      	min-height: 20px;
+      	min-width: 20px;
+      	cursor: pointer;
+      	display:  inline-block;
+
+      }
+
+
+      .color-picker{
+            align-self: center;
+            height: 30px;
+            cursor: pointer;
+      }
+
+      
